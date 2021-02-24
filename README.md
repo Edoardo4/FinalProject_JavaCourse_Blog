@@ -11,8 +11,8 @@ aggiunta dei post preferiti, possibilità di mettere like,
 commentare post, segnalazioni commenti inappropriati, disattivazione utente
 dopo 3 segnalazioni.
 
-Linguaggio utilizzato: Java
-Framework: SPRING(spring boot, spring security)
-Database: mysql
-DBMS: SQLyog, MySQL Workbench
-Postman
+1.Linguaggio utilizzato: Java
+2.Framework: SPRING(spring boot, spring security)
+3.Database: mysql
+4.DBMS: SQLyog, MySQL Workbench
+5.Postman
